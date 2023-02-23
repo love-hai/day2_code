@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/controller/AdminsController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/controller/DownloadController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/controller/UploadController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/entity/Admins.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/entity/BaseEntity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/mapper/AdminsMapper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/service/AdminsService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/service/impl/AdminsServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/util/PageHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/util/ResultCode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/dan/day2/util/WebResult.java" charset="GBK" />
+  </component>
+</project>
